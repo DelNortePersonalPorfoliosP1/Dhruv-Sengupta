@@ -19,7 +19,7 @@
 
 #include <stdio.h>
 
-void main()
+void lab2()
 {
     int arr1[100];
     int i, mx, mn, n;

@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int main(int argc, const char * argv[]) {
+int lab5(int argc, const char * argv[]) {
     double f, c, fact, n;
     
     

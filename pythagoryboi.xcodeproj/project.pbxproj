@@ -29,13 +29,9 @@
 /* Begin PBXFileReference section */
 		D7A58163232807A800987777 /* pythagoryboi */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = pythagoryboi; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7A58166232807A800987777 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
-		D7BE0E202332899C006437F9 /* lab2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lab2.h; sourceTree = "<group>"; };
 		D7BE0E212332899C006437F9 /* lab2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = lab2.c; sourceTree = "<group>"; };
-		D7BE0E23233289C8006437F9 /* lab3.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lab3.h; sourceTree = "<group>"; };
 		D7BE0E24233289C8006437F9 /* lab3.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = lab3.c; sourceTree = "<group>"; };
-		D7BE0E2623328A14006437F9 /* lab4.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lab4.h; sourceTree = "<group>"; };
 		D7BE0E2723328A14006437F9 /* lab4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = lab4.c; sourceTree = "<group>"; };
-		D7BE0E2923328A2A006437F9 /* lab5.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = lab5.h; sourceTree = "<group>"; };
 		D7BE0E2A23328A2A006437F9 /* lab5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = lab5.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -70,13 +66,9 @@
 			isa = PBXGroup;
 			children = (
 				D7A58166232807A800987777 /* main.c */,
-				D7BE0E202332899C006437F9 /* lab2.h */,
 				D7BE0E212332899C006437F9 /* lab2.c */,
-				D7BE0E23233289C8006437F9 /* lab3.h */,
 				D7BE0E24233289C8006437F9 /* lab3.c */,
-				D7BE0E2623328A14006437F9 /* lab4.h */,
 				D7BE0E2723328A14006437F9 /* lab4.c */,
-				D7BE0E2923328A2A006437F9 /* lab5.h */,
 				D7BE0E2A23328A2A006437F9 /* lab5.c */,
 			);
 			path = pythagoryboi;

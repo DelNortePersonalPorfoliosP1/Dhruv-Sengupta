@@ -6,7 +6,7 @@
 //  Copyright © 2019 Sengupta, Dhruv. All rights reserved.
 //
 
-#include "lab2.h"
+//#include "lab2.h"
 //
 //  main.c
 //  lab2
